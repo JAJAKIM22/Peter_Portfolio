@@ -8,5 +8,8 @@ This is a website with my personal information and projects i have done
 2.JAVASCRIPT
 3.CSS
 
+# REQUIREMENTS
+This project requires Visual Studio code editor.
+
 # AUTHOR
 Peter Karanja Kimani
