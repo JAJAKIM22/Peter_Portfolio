@@ -1,0 +1,22 @@
+p {
+    margin: 0 auto;
+    width: 60%;
+    padding-bottom: 40px;
+    background-color:rosybrown;
+  }
+  
+  h1 {
+      text-align: center;
+    padding: 20px;
+    background-color:aqua;
+  }
+  
+ #Header {
+    text-align: center;
+    background-color:blue;
+  }
+
+  #List {
+    text-align: center;
+    background-color: grey;
+  }
